@@ -135,3 +135,52 @@ a.seemore{
     color: #707070;
     text-align:center;
 }
+
+
+#contactus{
+    height: 300px;
+}
+
+
+#contactus{
+    height: 300px;
+}
+
+#contactus h3{
+    font-size: 24px;
+}
+#contactus p{
+    font-size: 12px;
+    color: #707070;
+}
+#contactus .btn-send{
+    background-image:linear-gradient(to bottom,#FF589B 0%, #FF136F 90%);
+    border:none;
+    color: white;
+    padding: 2px 10px;
+    font-size: 16px;
+    border-radius: 3px;
+    font-weight: 400;
+}
+
+
+#contactus .content{
+    padding: 100px 0;
+}
+
+.mail{
+    width: 300px;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+
+input::placeholder {
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+footer{
+    text-align: center;
+}
+
+
