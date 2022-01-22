@@ -37,6 +37,93 @@ h1.banner-text{
     font-weight: 500;
     font-size: 40px;
 }
-.fixed-top{
-    position: inherit;
+
+/* banner part ends here */
+
+.cat-1{
+    background-image: linear-gradient(to right,#FF9C35 0%,#FFD019 100%);
+}
+.cat-2{
+    background-image: linear-gradient(to right,#FF589B 0%, #FF136F 100%);
+}
+.cat-3{
+    background-image: linear-gradient(to right,#4289FF 0%,#3F07F8 100%);
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+ .categories h1{
+     color: white;
+     font-weight: 400;
+ }
+ .categories img{
+     width: 100px;
+ }
+
+/* categories part ends here */
+
+
+.shoes h5{
+    font-size: 20px;
+    font-weight: 600;
+    color: #1F1F1F;
+    text-align: center;
+}
+.shoes p{
+    font-size: 16px;
+    color: #707070;
+    text-align:center;
+}
+
+.shoes .btn-buy-now{
+    background-image:linear-gradient(to bottom,#FF589B 0%, #FF136F 90%);
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.card{
+    background-color: white;
+    box-shadow: 5px 5px  10px grey;
+}
+.shoes img{
+    padding: 40px 10px;
+}
+
+.text-seemore{
+    display: flex;
+    justify-content:space-between;
+}
+a.seemore{
+    color: #FF9D00;
+    font-size: 22px;
+    font: 300;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+
+.backpack .btn-buy-now{
+    background-image:linear-gradient(to bottom,#FF589B 0%, #FF136F 90%);
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.backpack h5{
+    font-size: 20px;
+    font-weight: 600;
+    color: #1F1F1F;
+    text-align: center;
+}
+.backpack p{
+    font-size: 16px;
+    color: #707070;
+    text-align:center;
 }
