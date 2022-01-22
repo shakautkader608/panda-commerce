@@ -1,0 +1,42 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.bgcolor{
+    background-color: #FEEAE9;
+    border-radius: 8px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.btn-buynow{
+    background-image:linear-gradient(to bottom,#FF589B 0%, #FF136F 90%);
+    border:none;
+    color: white;
+    padding: 8px 30px;
+    font-size: 16px;
+    border-radius: 8px;
+    font-weight: 300;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+p.banner-text{
+    color: #707070;
+    margin-bottom: 50px;
+    font-weight: 30;
+    font-size: 16px;
+}
+h1.banner-text{
+    color: #000;
+    font-weight: 500;
+    font-size: 40px;
+}
+.fixed-top{
+    position: inherit;
+}
